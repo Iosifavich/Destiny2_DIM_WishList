@@ -4,12 +4,12 @@ description: This list is compiled by me for me and my friends to make identifyi
 
 // A:
 
-// Annual Skate : Hand-Cannon, Solar, PvE - 2022-01-23
+// Annual Skate : Hand-Cannon, Primary-Ammo, Solar, PvE - 2022-01-23
 dimwishlist:item=6857689&perks=1168162263,4082225868
 dimwishlist:item=6857689&perks=1168162263,1954620775
 dimwishlist:item=6857689&perks=3400784728,1954620775
 
-// Artic Haze : Auto-Rifle, Solar, PvE - 2022-01-24
+// Artic Haze : Auto-Rifle, Primary-Ammo, Solar, PvE - 2022-01-24
 dimwishlist:item=20935540&perks=1168162263,1546637391
 dimwishlist:item=20935540&perks=1168162263,2848615171
 dimwishlist:item=20935540&perks=1168162263,2726471870
@@ -19,7 +19,7 @@ dimwishlist:item=20935540&perks=1820235745,2726471870
 
 // B:
 
-// Biting Wind : Bow, Kinetic, PvE - 2022-01-24
+// Biting Wind : Bow, Primary-Ammo, Kinetic, PvE - 2022-01-24
 dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,4082225868
 dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,2846385770
 dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,3365897133
@@ -28,11 +28,11 @@ dimwishlist:item=1621657423&perks=247725512,2846385770
 dimwishlist:item=1621657423&perks=247725512,3365897133
 
 
-// Bonechiller : Shotgun, Void, PvE - 2022-01-24
+// Bonechiller : Shotgun, Special-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=4037745684&perks=791862061,3300816228,47981717
 dimwishlist:item=4037745684&perks=791862061,3400784728,47981717
 
-// Brass Attack : Sidearm, Void, PvE - 2022-01-24
+// Brass Attack : Sidearm, Primary-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=2121785039&perks=1561002382,2779035018,4049631843
 dimwishlist:item=2121785039&perks=1561002382,2779035018,3425386926
 dimwishlist:item=2121785039&perks=1561002382,2779035018,4104185692
@@ -54,26 +54,26 @@ dimwishlist:item=2121785039&perks=247725512,4104185692
 
 // C:
 
-//Cartesian Coordinate : Fuesion-Rifle, Solar, PvE - 2022-01-23
+//Cartesian Coordinate : Fuesion-Rifle, Special-Ammo, Solar, PvE - 2022-01-23
 dimwishlist:item=2481881293&perks=689005463,1556840489,1546637391
 dimwishlist:item=2481881293&perks=1645158859,1546637391
 dimwishlist:item=2481881293&perks=2779035018,1546637391
 dimwishlist:item=2481881293&perks=1556840489,1546637391
 dimwishlist:item=2481881293&perks=1631667848,4082225868
 
-// Code Duello : Rocket-Launcher, Solar, PvE - 2022-01-24
+// Code Duello : Rocket-Launcher, Power-Ammo, Solar, PvE - 2022-01-24
 dimwishlist:item=2496242052&perks=3796465595,951095735,3927722942
 dimwishlist:item=2496242052&perks=3796465595,2869569095,3927722942
 dimwishlist:item=2496242052&perks=3796465595,3300816228,3927722942
 
-// Contingency Plan : Scout-Rifle, Arc, PvE - 2022-01-23
+// Contingency Plan : Scout-Rifle, Primary-Ammo, Arc, PvE - 2022-01-23
 dimwishlist:item=577528837&perks=1168162263,4104185692
 dimwishlist:item=577528837&perks=1168162263,1015611457
 dimwishlist:item=577528837&perks=1168162263,4049631843
 dimwishlist:item=577528837&perks=1820235745,4104185692
 dimwishlist:item=577528837&perks=1820235745,4049631843
 
-// Coriolis Force : Fuesion-Rifle, Void, PvE - 2022-01-24
+// Coriolis Force : Fuesion-Rifle, Special-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=3512349612&perks=2779035018,2726471870
 
 // CORSAIR'S WRATH : Linear-Fusion-Rifle, Solar, PvE - 2022-01-24
@@ -92,12 +92,12 @@ dimwishlist:item=2714022207&perks=588594999,2726471870
 dimwishlist:item=2714022207&perks=588594999,2213355989
 dimwishlist:item=2714022207&perks=2866798147,2213355989
 
-// Chroma Rush : Auto-Rifle, Kinetic, PvE - 2022-01-23
+// Chroma Rush : Auto-Rifle, Primary-Ammo, Kinetic, PvE - 2022-01-23
 dimwishlist:item=1119734784&perks=2779035018,1015611457
 dimwishlist:item=1119734784&perks=2779035018,3425386926
 dimwishlist:item=1119734784&perks=1820235745,3425386926
 
-// Crowd Pleaser : Grenade-Launcher. Void, PvE - 2022-01-24
+// Crowd Pleaser : Grenade-Launcher, Power-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=3565520715&perks=3301904089,2869569095,3523296417
 dimwishlist:item=3565520715&perks=3301904089,2869569095,2396489472
 dimwishlist:item=3565520715&perks=3301904089,2284787283,3523296417
@@ -105,7 +105,7 @@ dimwishlist:item=3565520715&perks=3301904089,2284787283,2396489472
 
 // D:
 
-// Deadening Whisper : Grenade-Launcher, Void, PvE - 2022-01-24
+// Deadening Whisper : Grenade-Launcher, Special-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=981718087&perks=2010801679,4071163871
 dimwishlist:item=981718087&perks=2010801679,3592538738
 dimwishlist:item=981718087&perks=2010801679,3300816228
@@ -113,17 +113,17 @@ dimwishlist:item=981718087&perks=3436462433,4071163871
 dimwishlist:item=981718087&perks=3436462433,3592538738
 dimwishlist:item=981718087&perks=3436462433,3300816228
 
-// Dire Promise : Hand-Cannon, Kinetic, PvE - 2022-01-23
+// Dire Promise : Hand-Cannon, Primary-Ammo, Kinetic, PvE - 2022-01-23
 dimwishlist:item=2742838701&perks=3643424744,4082225868
 
-// Distant Tumulus : Sniper-Rifle, Solar, PvE - 2022-01-23
+// Distant Tumulus : Sniper-Rifle, Special-Ammo, Solar, PvE - 2022-01-23
 dimwishlist:item=2807687156&perks=1087426260,2284787283,1771339417
 dimwishlist:item=2807687156&perks=106909392,2284787283,1771339417
 dimwishlist:item=2807687156&perks=2420895100,2284787283,1771339417
 
 // E:
 
-// Eternal Blazon : Scout-Rifle, Arc, PvE - 2022-01-23
+// Eternal Blazon : Scout-Rifle, Primary-Ammo, Arc, PvE - 2022-01-23
 dimwishlist:item=3514096004&perks=1561002382,247725512,1015611457
 dimwishlist:item=3514096004&perks=1885400500,247725512,1015611457
 dimwishlist:item=3514096004&perks=1561002382,247725512,4049631843
@@ -131,7 +131,7 @@ dimwishlist:item=3514096004&perks=1885400500,247725512,4049631843
 dimwishlist:item=3514096004&perks=247725512,4049631843
 dimwishlist:item=3514096004&perks=247725512,1015611457
 
-// Extraordinary Rendition : Submachine-Gun, Kinetic, PvE - 2022-01-24
+// Extraordinary Rendition : Submachine-Gun, Primary-Ammo, Kinetic, PvE - 2022-01-24
 dimwishlist:item=1097616550&perks=1820235745,3425386926
 dimwishlist:item=1097616550&perks=1820235745,4104185692
 dimwishlist:item=1097616550&perks=1820235745,4049631843
@@ -142,38 +142,38 @@ dimwishlist:item=1097616550&perks=1168162263,4049631843
 
 // F:
 
-// Falling Guillotine : Sword. Void, PvE - 2022-01-23
+// Falling Guillotine : Sword, Power-Ammo, Void, PvE - 2022-01-23
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
 dimwishlist:item=614426548&perks=1749209109,3913600130
 
-// Far Future : Sniper-Rifle, Solar, PvE - 2022-01-24
+// Far Future : Sniper-Rifle, Special-Ammo, Solar, PvE - 2022-01-24
 dimwishlist:item=893527433&perks=588594999,47981717
 dimwishlist:item=893527433&perks=3300816228,3523296417
 dimwishlist:item=893527433&perks=3300816228,2726471870
 
 
-// Farewell : Sidearm, Kinetic, PvE - 2022-01-23
+// Farewell : Sidearm, Primary-Ammo, Kinetic, PvE - 2022-01-23
 dimwishlist:item=541188001&perks=2946784966,2458213969
 dimwishlist:item=541188001&perks=1820235745,4104185692
 dimwishlist:item=541188001&perks=1820235745,11612903
 dimwishlist:item=541188001&perks=1820235745,2458213969
 
-// First In, Last Out : Shotgun, Arc, PvE - 2022-01-23
+// First In, Last Out : Shotgun, Special-Ammo, Arc, PvE - 2022-01-23
 dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
 
-// Friction Fire : Submachine-Gun, Kinetic - 2022-01-24
+// Friction Fire : Submachine-Gun, Primary-Ammo, Kinetic - 2022-01-24
 dimwishlist:item=1513993763&perks=1087426260,1820235745,3425386926
 dimwishlist:item=1513993763&perks=106909392,1820235745,3425386926
 dimwishlist:item=1513993763&perks=2420895100,1820235745,3425386926
 
 // G:
 
-// Gnawling Hunger : Auto-Rifle, Void, PvE - 2022-01-23
+// Gnawling Hunger : Auto-Rifle, Primary-Ammo, Void, PvE - 2022-01-23
 dimwishlist:item=821154603&perks=839105230,1087426260,3643424744,3425386926
 dimwishlist:item=821154603&perks=1820235745,3425386926
 dimwishlist:item=821154603&perks=1820235745,4082225868
 
-// Gridskipper : Pulse-Rifle, Void, PvE - 2022-01-23
+// Gridskipper : Pulse-Rifle, Primary-Ammo, Void, PvE - 2022-01-23
 dimwishlist:item=1621558458&perks=2946784966,2458213969
 dimwishlist:item=1621558458&perks=2450788523,4104185692
 dimwishlist:item=1621558458&perks=2450788523,11612903
@@ -182,12 +182,12 @@ dimwishlist:item=1621558458&perks=1570042021,2458213969
 
 // H:
 
-// Hailing Confusion : Pulse-Rifle, Kinetic, PvE - 2022-01-24
+// Hailing Confusion : Pulse-Rifle, Primary-Ammo, Kinetic, PvE - 2022-01-24
 dimwishlist:item=2870169846&perks=1168162263,3523296417
 
 // I:
 
-// Ignition Code : Grenade-Launcher, Kinetic, PvE - 2022-01-23
+// Ignition Code : Grenade-Launcher, Special-Ammo, Kinetic, PvE - 2022-01-23
 dimwishlist:item=304659313&perks=3032599245,3161816588,960810156
 dimwishlist:item=304659313&perks=3032599245,3436462433,960810156
 dimwishlist:item=304659313&perks=3032599245,706527188,960810156
@@ -196,22 +196,22 @@ dimwishlist:item=304659313&perks=3301904089,2869569095,1546637391
 dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391
 dimwishlist:item=304659313&perks=3301904089,3436462433,1546637391
 
-// IKELOS_SG_V1.0.2 : Shotgun, Solar, PvE - 2022-01-23
+// IKELOS_SG_V1.0.2 : Shotgun, Special-Ammo, Solar, PvE - 2022-01-23
 dimwishlist:item=1096206669&perks=2779035018,2360754333
 dimwishlist:item=1096206669&perks=2779035018,1546637391
 dimwishlist:item=1096206669&perks=4071163871,2360754333
 dimwishlist:item=1096206669&perks=4071163871,1546637391
 
-// IKELOS_HC_V1.0.2 : Hand-Cannon, Void, PvE - 2022-01-23
+// IKELOS_HC_V1.0.2 : Hand-Cannon, Primary-Ammo, Void, PvE - 2022-01-23
 dimwishlist:item=1200824700&perks=839105230,1140096971,1820235745,3425386926
 dimwishlist:item=1200824700&perks=1820235745,3425386926
 
-// IKELOS_SR_V1.0.2 : Hand-Cannon, Void, PvE - 2022-01-23
+// IKELOS_SR_V1.0.2 : Hand-Cannon, Primary-Ammo, Void, PvE - 2022-01-23
 dimwishlist:item=1253087083&perks=839105230,1140096971,3400784728,2213355989
 dimwishlist:item=1253087083&perks=1354429876,2213355989
 dimwishlist:item=1253087083&perks=3400784728,2213355989
 
-// IKELOS_SMG_V1.0.2 : Submachine-Gun, Arc, PvE - 2022-01-23
+// IKELOS_SMG_V1.0.2 : Submachine-Gun, Primary-Ammo, Arc, PvE - 2022-01-23
 dimwishlist:item=2222560548&perks=1840239774,1140096971,1820235745,1683379515
 dimwishlist:item=2222560548&perks=1840239774,1140096971,1820235745,1546637391
 dimwishlist:item=2222560548&perks=1840239774,1140096971,1820235745,3523296417
@@ -219,7 +219,7 @@ dimwishlist:item=2222560548&perks=1820235745,1683379515
 dimwishlist:item=2222560548&perks=1820235745,1546637391
 dimwishlist:item=2222560548&perks=1820235745,3523296417
 
-// Imperial Needle : Bow, Void, PvE - 2022-01-24
+// Imperial Needle : Bow, Primary-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=3460122497&perks=2801223209,3827198035,201365942,4104185692
 dimwishlist:item=3460122497&perks=852209214,3827198035,201365942,4104185692
 dimwishlist:item=3460122497&perks=706527188,47981717
@@ -237,19 +237,19 @@ dimwishlist:item=3460122497&perks=201365942,4104185692
 
 // L:
 
-// Last Perdition : Pulse-Rifle, Void, PvE - 2022-01-23
+// Last Perdition : Pulse-Rifle, Primary-Ammo, Void, PvE - 2022-01-23
 dimwishlist:item=188882152&perks=360593482,3142289711,2846385770,3425386926
 dimwishlist:item=188882152&perks=1168162263,3425386926
 dimwishlist:item=188882152&perks=1168162263,1015611457
 
-// Legal Action II : Pulse-Rifle, Kinetic, PvE 2022-01-23
+// Legal Action II : Pulse-Rifle, Primary-Ammo, Kinetic, PvE 2022-01-23
 dimwishlist:item=3409645497&perks=2779035018,3425386926
 dimwishlist:item=3409645497&perks=2779035018,11612903
 dimwishlist:item=3409645497&perks=2779035018,4104185692
 
 // M:
 
-// Main Ingrediant : Fuesion-Rifle, Arc, PvP - 2022-01-23
+// Main Ingrediant : Fuesion-Rifle, Special-Ammo, Arc, PvP - 2022-01-23
 dimwishlist:item=253196586&perks=1645158859,2213355989
 dimwishlist:item=253196586&perks=1645158859,2846385770
 dimwishlist:item=253196586&perks=1645158859,1890422124
@@ -257,7 +257,7 @@ dimwishlist:item=253196586&perks=3300816228,2846385770
 
 // N:
 
-//Nightwatch : Scout-Rifle, Kinetic, PvE - 2022-01-23
+//Nightwatch : Scout-Rifle, Primary-Ammo, Kinetic, PvE - 2022-01-23
 dimwishlist:item=3504336176&perks=1820235745,3038247973,2697220197
 dimwishlist:item=3504336176&perks=247725512,3038247973,2697220197
 dimwishlist:item=3504336176&perks=247725512,3425386926,2697220197
@@ -274,7 +274,7 @@ dimwishlist:item=2776503072&perks=3230963543,3300816228,2726471870
 
 // R:
 
-// Retold Tale : Shotgun, Void, PvE - 2022-01-24
+// Retold Tale : Shotgun, Special-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=346136302&perks=1332244541,791862061,706527188,2679249093
 dimwishlist:item=346136302&perks=1332244541,791862061,2869569095,1546637391
 dimwishlist:item=346136302&perks=3161816588,2679249093
@@ -289,38 +289,38 @@ dimwishlist:item=346136302&perks=2869569095,1546637391
 
 
 
-// Royal Chase : Scout-Rifle-Rifle, Void, PvE - 2022-01-24
+// Royal Chase : Scout-Rifle-Rifle, Primary-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=2776503072&perks=3230963543,2869569095,2458213969
 dimwishlist:item=2776503072&perks=3230963543,2869569095,2848615171
 dimwishlist:item=2776503072&perks=3230963543,3300816228,2848615171
 
 // S:
 
-// Scathelocke : Auto-Rifle, Kinetic, PvE - 2022-01-23
+// Scathelocke : Auto-Rifle, Primary-Ammo, Kinetic, PvE - 2022-01-23
 dimwishlist:item=602618796&perks=839105230,1820235745,3425386926
 dimwishlist:item=602618796&perks=1820235745,3425386926
 
-// Sleepless : Rocket-Launcher, Arc, PvE - 2022-01-24
+// Sleepless : Rocket-Launcher, Power-Ammo, Arc, PvE - 2022-01-24
 dimwishlist:item=3740842661&perks=3796465595,3300816228,1546637391
 dimwishlist:item=3740842661&perks=3796465595,2869569095,1546637391
 dimwishlist:item=3740842661&perks=3796465595,3977735242,1546637391
 
-// STOCHASTIC VARIABLE : Submachine-Gun, Arc, PvE - 2022-01-23
+// STOCHASTIC VARIABLE : Submachine-Gun, Primary-Ammo, Arc, PvE - 2022-01-23
 dimwishlist:item=2272470786&perks=1561002382,2779035018,2458213969
 dimwishlist:item=2272470786&perks=1885400500,2779035018,2458213969
 dimwishlist:item=2272470786&perks=2779035018,2458213969
 
 // T:
 
-// Tarantula : Linear-Fusion-Rifle, Arc, PvE - 2022-01-23
+// Tarantula : Linear-Fusion-Rifle, Power-Ammo, Primary-Ammo, Arc, PvE - 2022-01-23
 dimwishlist:item=3335343363&perks=2869569095,2551157718
 
-// Threaded Needle : Linear-Fusion-Rifle, Void, PvE - 2022-01-24
+// Threaded Needle : Linear-Fusion-Rifle, Power-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=3075224551&perks=2284787283,1546637391
 dimwishlist:item=3075224551&perks=247725512,1546637391
 dimwishlist:item=3075224551&perks=2869569095,1546637391
 
-// Tigerspite : Auto-Rifle, Kinetic, PvE - 2022-01-24
+// Tigerspite : Auto-Rifle, Primary-Ammo, Kinetic, PvE - 2022-01-24
 dimwishlist:item=640114618&perks=1467527085,1561002382,1820235745,4082225868
 dimwishlist:item=640114618&perks=1561002382,1168162263,1015611457
 dimwishlist:item=640114618&perks=1561002382,1168162263,4082225868
@@ -335,7 +335,7 @@ dimwishlist:item=640114618&perks=1168162263,1015611457
 dimwishlist:item=640114618&perks=1168162263,4082225868
 dimwishlist:item=640114618&perks=1820235745,4082225868
 
-// Truthteller : Grenade-Launcher, Void, PvE - 2022-01-23
+// Truthteller : Grenade-Launcher, Special-Ammo, Void, PvE - 2022-01-23
 dimwishlist:item=1946491241&perks=3032599245,3300816228,3523296417
 dimwishlist:item=1946491241&perks=3032599245,3300816228,706527188
 dimwishlist:item=1946491241&perks=3032599245,3300816228,1683379515
@@ -343,7 +343,7 @@ dimwishlist:item=1946491241&perks=3301904089,3300816228,3523296417
 dimwishlist:item=1946491241&perks=3301904089,3300816228,706527188
 dimwishlist:item=1946491241&perks=3301904089,3300816228,1683379515
 
-// Twilight Oath : Sniper-Rifle, Solar, PvE - 2022-01-24
+// Twilight Oath : Sniper-Rifle, Special-Ammo, Solar, PvE - 2022-01-24
 dimwishlist:item=3297863558&perks=247725512,3400784728
 dimwishlist:item=3297863558&perks=247725512,1546637391
 dimwishlist:item=3297863558&perks=47981717,1546637391
@@ -356,7 +356,7 @@ dimwishlist:item=3297863558&perks=3513791699,957782887
 
 // V:
 
-// Vouchsafe : Scout-Rifle, Void, PvE - 2022-01-24
+// Vouchsafe : Scout-Rifle, Primary-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=3242168339&perks=247725512,3038247973
 dimwishlist:item=3242168339&perks=247725512,2458213969
 dimwishlist:item=3242168339&perks=247725512,1546637391
@@ -366,7 +366,7 @@ dimwishlist:item=3242168339&perks=1168162263,1546637391
 
 // W:
 
-// Waking Vigil : Hand-Cannon, Arc, PvE - 2022-01-24
+// Waking Vigil : Hand-Cannon, Primary-Ammo, Arc, PvE - 2022-01-24
 dimwishlist:item=334171687&perks=1926090093,1885400500,247725512,1015611457
 dimwishlist:item=334171687&perks=1926090093,1885400500,1168162263,1015611457
 dimwishlist:item=334171687&perks=1926090093,1885400500,247725512,2848615171
@@ -385,7 +385,7 @@ dimwishlist:item=334171687&perks=247725512,2848615171
 dimwishlist:item=334171687&perks=1168162263,2848615171
 
 
-// Wispering Slab : Bow, Kinetic, PvE - 2022-01-23
+// Wispering Slab : Bow, Primary-Ammo, Kinetic, PvE - 2022-01-23
 dimwishlist:item=211938782&perks=201365942,4082225868
 dimwishlist:item=211938782&perks=201365942,1546637391
 dimwishlist:item=211938782&perks=201365942,3523296417
