@@ -88,7 +88,7 @@ dimwishlist:item=2066434718&perks=3301904089,2869569095,1546637391
 dimwishlist:item=2066434718&perks=3301904089,2284787283,1546637391
 dimwishlist:item=2066434718&perks=3301904089,951095735,2396489472
 
-// Cartesian Coordinate : Fuesion-Rifle, Special-Ammo, Solar, PvE - 2022-01-23
+// Cartesian Coordinate : Fusion-Rifle, Special-Ammo, Solar, PvE - 2022-01-23
 dimwishlist:item=2481881293&perks=689005463,1556840489,1546637391
 dimwishlist:item=2481881293&perks=1645158859,1546637391
 dimwishlist:item=2481881293&perks=2779035018,1546637391
@@ -113,7 +113,7 @@ dimwishlist:item=577528837&perks=1168162263,4049631843
 dimwishlist:item=577528837&perks=1820235745,4104185692
 dimwishlist:item=577528837&perks=1820235745,4049631843
 
-// Coriolis Force : Fuesion-Rifle, Special-Ammo, Void, PvE - 2022-01-24
+// Coriolis Force : Fusion-Rifle, Special-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=3512349612&perks=2779035018,2726471870
 
 // CORSAIR'S WRATH : Linear-Fusion-Rifle, Solar, PvE - 2022-01-24
@@ -290,6 +290,10 @@ dimwishlist:item=3460122497&perks=201365942,3592538738
 dimwishlist:item=3460122497&perks=201365942,4082225868
 dimwishlist:item=3460122497&perks=201365942,4104185692
 
+// Iota Draconis : Fusion-Rifle, Primary-Ammo, Solar, PvEvP - 2022-01-28
+dimwishlist:item=3044460004&perks=2779035018,4104185692#note: PvE
+dimwishlist:item=3044460004&perks=1645158859,2213355989#note: PvP
+
 // J:
 
 // Judgment : Hand-Cannon, Primary-Ammo, Kinetic, PvE - 2022-01-25
@@ -317,7 +321,7 @@ dimwishlist:item=3409645497&perks=2779035018,4104185692
 
 // M:
 
-// Main Ingrediant : Fuesion-Rifle, Special-Ammo, Arc, PvP - 2022-01-23
+// Main Ingrediant : Fusion-Rifle, Special-Ammo, Arc, PvP - 2022-01-23
 dimwishlist:item=253196586&perks=1645158859,2213355989
 dimwishlist:item=253196586&perks=1645158859,2846385770
 dimwishlist:item=253196586&perks=1645158859,1890422124
