@@ -115,7 +115,6 @@ dimwishlist:item=1119734784&perks=2779035018,11612903
 dimwishlist:item=1119734784&perks=2779035018,1015611457
 dimwishlist:item=1119734784&perks=2779035018,3425386926
 dimwishlist:item=1119734784&perks=1820235745,11612903
-dimwishlist:item=1119734784&perks=1820235745,1015611457
 dimwishlist:item=1119734784&perks=1820235745,3425386926
 
 // Chrysura Melo : Auto-Rifle, Primary-Ammo, Solar, PvE - 2022-01-25
