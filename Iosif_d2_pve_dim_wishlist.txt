@@ -1,8 +1,16 @@
 title: This is a Iosif's collection of Destiny 2 Weapon rolls for DIM (Destiny Item Manager)
 description: This list is compiled by me for me and my friends to make identifying good weapons easier as many of the other lists are bloated the primary focus of this list is PvE Mid-High end content
 
+// #: -----------------------------------------------------------------------
 
-// A:
+// 1000 Yard Stare : Sniper-Rifle, 
+dimwishlist:item=4164201232&perks=3400784728,3523296417
+dimwishlist:item=4164201232&perks=3400784728,2848615171
+dimwishlist:item=4164201232&perks=3400784728,3513791699
+dimwishlist:item=4164201232&perks=3400784728,2610012052
+dimwishlist:item=4164201232&perks=706527188,957782887
+
+// A: -----------------------------------------------------------------------
 
 // A Sudden Death : Shotgun, Special-Ammo, Arc, PvPvE - 2022-01-26
 dimwishlist:item=2855157553&perks=4071163871,3592538738
@@ -46,7 +54,7 @@ dimwishlist:item=20935540&perks=1820235745,2726471870
 // Ascendancy : Rocket-Launcher, Power-Ammo, Solar, PvE - 2022-01-25
 dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,3194351027
 
-// B:
+// B: -----------------------------------------------------------------------
 
 // Biting Wind : Bow, Primary-Ammo, Kinetic, PvE - 2022-01-24
 dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,4082225868
@@ -55,7 +63,6 @@ dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,3365897133
 dimwishlist:item=1621657423&perks=247725512,4082225868
 dimwishlist:item=1621657423&perks=247725512,2846385770
 dimwishlist:item=1621657423&perks=247725512,3365897133
-
 
 // Bonechiller : Shotgun, Special-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=4037745684&perks=791862061,3300816228,47981717
@@ -81,7 +88,15 @@ dimwishlist:item=2121785039&perks=247725512,4049631843
 dimwishlist:item=2121785039&perks=247725512,3425386926
 dimwishlist:item=2121785039&perks=247725512,4104185692
 
-// C:
+// BxR-55 Battler : Pulse-Rifle, Primary-Ammo, Solar, PvPvE - 2022-01-28
+dimwishlist:item=2708806099&perks=1885400500,1168162263,1015611457
+dimwishlist:item=2708806099&perks=1168162263,454085387
+dimwishlist:item=2708806099&perks=957782887,454085387
+dimwishlist:item=2708806099&perks=3523296417,11612903
+dimwishlist:item=2708806099&perks=1168162263,1015611457
+dimwishlist:item=2708806099&perks=1168162263,2846385770
+
+// C: -----------------------------------------------------------------------
 
 // Canis Major : Grenade-Launcher, Special-Ammo, Solar, PvE - 2022-01-26
 dimwishlist:item=2066434718&perks=3301904089,2869569095,1546637391
@@ -143,7 +158,7 @@ dimwishlist:item=3565520715&perks=3301904089,2869569095,2396489472
 dimwishlist:item=3565520715&perks=3301904089,2284787283,3523296417
 dimwishlist:item=3565520715&perks=3301904089,2284787283,2396489472
 
-// D:
+// D: -----------------------------------------------------------------------
 
 // Darkest Before : Pulse-Rifle, Primary-Ammo, Arc, PvE - 2022-01-26
 dimwishlist:item=2481758391&perks=1561002382,1820235745,3425386926
@@ -172,7 +187,7 @@ dimwishlist:item=2807687156&perks=1087426260,2284787283,1771339417
 dimwishlist:item=2807687156&perks=106909392,2284787283,1771339417
 dimwishlist:item=2807687156&perks=2420895100,2284787283,1771339417
 
-// E:
+// E: -----------------------------------------------------------------------
 
 // Eternal Blazon : Scout-Rifle, Primary-Ammo, Arc, PvE - 2022-01-23
 dimwishlist:item=3514096004&perks=1561002382,247725512,1015611457
@@ -191,7 +206,16 @@ dimwishlist:item=1097616550&perks=1168162263,3425386926
 dimwishlist:item=1097616550&perks=1168162263,4104185692
 dimwishlist:item=1097616550&perks=1168162263,4049631843
 
-// F:
+// Eyasluna : Hand-Cannon, Primary-Ammo, Stasis, PvE
+dimwishlist:item=235827225&perks=247725512,124408337
+dimwishlist:item=235827225&perks=247725512,1015611457
+dimwishlist:item=235827225&perks=1168162263,124408337
+dimwishlist:item=235827225&perks=1168162263,1015611457
+dimwishlist:item=235827225&perks=2846385770,588594999
+dimwishlist:item=235827225&perks=2846385770,124408337
+dimwishlist:item=235827225&perks=2846385770,957782887
+
+// F: -----------------------------------------------------------------------
 
 // Falling Guillotine : Sword, Power-Ammo, Void, PvE - 2022-01-23
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
@@ -234,13 +258,12 @@ dimwishlist:item=3184681056&perks=2117683199,47981717
 dimwishlist:item=3184681056&perks=2117683199,2726471870
 dimwishlist:item=3184681056&perks=2117683199,2360754333
 
-
 // Friction Fire : Submachine-Gun, Primary-Ammo, Kinetic - 2022-01-24
 dimwishlist:item=1513993763&perks=1087426260,1820235745,3425386926
 dimwishlist:item=1513993763&perks=106909392,1820235745,3425386926
 dimwishlist:item=1513993763&perks=2420895100,1820235745,3425386926
 
-// G:
+// G: -----------------------------------------------------------------------
 
 // Gnawling Hunger : Auto-Rifle, Primary-Ammo, Void, PvE - 2022-01-23
 dimwishlist:item=821154603&perks=839105230,1087426260,3643424744,3425386926
@@ -254,12 +277,25 @@ dimwishlist:item=1621558458&perks=2450788523,11612903
 dimwishlist:item=1621558458&perks=1570042021,4104185692
 dimwishlist:item=1621558458&perks=1570042021,2458213969
 
-// H:
+// H: -----------------------------------------------------------------------
 
 // Hailing Confusion : Pulse-Rifle, Primary-Ammo, Kinetic, PvE - 2022-01-24
 dimwishlist:item=2870169846&perks=1168162263,3523296417
 
-// I:
+// Half-Truths : Sword, Power-Ammo, Arc, PvE - 2022-01-28
+dimwishlist:item=3257091166&perks=3705817207,2077819806
+dimwishlist:item=3257091166&perks=2590710093,2077819806
+
+// Hero of Ages : Sword, Power-Ammo, Arc, PvE - 2022-01-28
+dimwishlist:item=2139640995&perks=3523296417,2396489472
+dimwishlist:item=2139640995&perks=1749209109,2396489472
+dimwishlist:item=2139640995&perks=3705817207,2396489472
+dimwishlist:item=2139640995&perks=2590710093,2396489472
+dimwishlist:item=2139640995&perks=1749209109,4049631843
+dimwishlist:item=2139640995&perks=3705817207,4049631843
+dimwishlist:item=2139640995&perks=2590710093,4049631843
+
+// I: -----------------------------------------------------------------------
 
 // Ignition Code : Grenade-Launcher, Special-Ammo, Kinetic, PvE - 2022-01-23
 dimwishlist:item=304659313&perks=3032599245,3161816588,960810156
@@ -307,7 +343,7 @@ dimwishlist:item=3460122497&perks=201365942,4104185692
 dimwishlist:item=3044460004&perks=2779035018,4104185692
 dimwishlist:item=3044460004&perks=1645158859,2213355989
 
-// J:
+// J: -----------------------------------------------------------------------
 
 // Judgment : Hand-Cannon, Primary-Ammo, Kinetic, PvE - 2022-01-25
 dimwishlist:item=1476654960&perks=1195158366,1954620775
@@ -318,9 +354,9 @@ dimwishlist:item=1476654960&perks=1195158366,2458213969
 dimwishlist:item=1476654960&perks=2946784966,2458213969
 dimwishlist:item=1476654960&perks=588594999,47981717
 
-// K:
+// K: -----------------------------------------------------------------------
 
-// L:
+// L: -----------------------------------------------------------------------
 
 // Last Perdition : Pulse-Rifle, Primary-Ammo, Void, PvE - 2022-01-23
 dimwishlist:item=188882152&perks=360593482,3142289711,2846385770,3425386926
@@ -332,7 +368,7 @@ dimwishlist:item=3409645497&perks=2779035018,3425386926
 dimwishlist:item=3409645497&perks=2779035018,11612903
 dimwishlist:item=3409645497&perks=2779035018,4104185692
 
-// M:
+// M: -----------------------------------------------------------------------
 
 // Main Ingrediant : Fusion-Rifle, Special-Ammo, Arc, PvP - 2022-01-23
 dimwishlist:item=253196586&perks=1645158859,2213355989
@@ -340,18 +376,34 @@ dimwishlist:item=253196586&perks=1645158859,2846385770
 dimwishlist:item=253196586&perks=1645158859,1890422124
 dimwishlist:item=253196586&perks=3300816228,2846385770
 
-// N:
+// Matador 64 : Shotgun, Special-Ammo, Arc, PvE - 2022-01-28
+dimwishlist:item=2563012876&perks=1428297954,47981717
+dimwishlist:item=2563012876&perks=2117683199,2679249093
+dimwishlist:item=2563012876&perks=4071163871,2610012052
+
+// N: -----------------------------------------------------------------------
 
 //Nightwatch : Scout-Rifle, Primary-Ammo, Kinetic, PvE - 2022-01-23
-dimwishlist:item=3504336176&perks=1820235745,3038247973,2697220197
-dimwishlist:item=3504336176&perks=247725512,3038247973,2697220197
-dimwishlist:item=3504336176&perks=247725512,3425386926,2697220197
-dimwishlist:item=3504336176&perks=247725512,3038247973,2697220197
-dimwishlist:item=2776503072&perks=3230963543,3300816228,2726471870
+dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973
+dimwishlist:item=3504336176&perks=1820235745,3038247973
+dimwishlist:item=3504336176&perks=1820235745,3425386926
+dimwishlist:item=3504336176&perks=1168162263,3425386926
+dimwishlist:item=3504336176&perks=1168162263,2458213969
+dimwishlist:item=3504336176&perks=247725512,3038247973
+dimwishlist:item=3504336176&perks=247725512,3425386926
+dimwishlist:item=3504336176&perks=247725512,2458213969
 
-// O:
+// O: -----------------------------------------------------------------------
 
-// P:
+// P: -----------------------------------------------------------------------
+
+// Pardon Our Dust : Grenade-Launcher, Special-Ammo, Kinetic, PvE - 2022-01-28
+dimwishlist:item=3849810018&perks=3032599245,3300816228,960810156
+dimwishlist:item=3849810018&perks=3301904089,3300816228,960810156
+dimwishlist:item=3849810018&perks=3301904089,3300816228,1546637391
+dimwishlist:item=3849810018&perks=3301904089,2010801679,960810156
+dimwishlist:item=3849810018&perks=3301904089,2010801679,1546637391
+dimwishlist:item=3849810018&perks=3301904089,2621346526,1546637391
 
 // Peacebond : Sidearm, Primary-Ammo, Stasis, PvE - 2022-01-25
 dimwishlist:item=829330711&perks=1820235745,4082225868
@@ -359,7 +411,6 @@ dimwishlist:item=829330711&perks=1820235745,3523296417
 dimwishlist:item=829330711&perks=1820235745,124408337
 dimwishlist:item=829330711&perks=2846385770,957782887
 dimwishlist:item=829330711&perks=2846385770,591790007
-
 
 // Punching Out : Sidearm, Primary-Ammo, Solar, PvE - 2022-01-25
 dimwishlist:item=378498222&perks=2779035018,11612903
@@ -377,9 +428,9 @@ dimwishlist:item=378498222&perks=1195158366,1015611457
 dimwishlist:item=378498222&perks=1195158366,4082225868
 dimwishlist:item=378498222&perks=1195158366,2726471870
 
-// Q:
+// Q: -----------------------------------------------------------------------
 
-// R:
+// R: -----------------------------------------------------------------------
 
 // Reed's Regret : Linear-Fusion-Rifle, Power-Ammo, Stasis, PvE - 2022-01-25
 dimwishlist:item=1399243961&perks=3400784728,1771339417
@@ -388,7 +439,6 @@ dimwishlist:item=1399243961&perks=3400784728,1546637391
 // Reed's Regret (Adept): Linear-Fusion-Rifle, Power-Ammo, Stasis, PvE - 2022-01-25
 dimwishlist:item=2475355656&perks=3400784728,1771339417
 dimwishlist:item=2475355656&perks=3400784728,1546637391
-
 
 // Retold Tale : Shotgun, Special-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=346136302&perks=1332244541,791862061,706527188,2679249093
@@ -403,12 +453,21 @@ dimwishlist:item=346136302&perks=2869569095,2679249093
 dimwishlist:item=346136302&perks=2869569095,3523296417
 dimwishlist:item=346136302&perks=2869569095,1546637391
 
+// Retraced Path : Trace-Rifle, Special-Ammo, Solar, PvE - 2022-01-28
+dimwishlist:item=548958835&perks=1820235745,4049631843
+dimwishlist:item=548958835&perks=1820235745,4104185692
+dimwishlist:item=548958835&perks=1820235745,2610012052
+dimwishlist:item=548958835&perks=2779035018,4049631843
+dimwishlist:item=548958835&perks=2779035018,4104185692
+dimwishlist:item=548958835&perks=2779035018,2610012052
+dimwishlist:item=548958835&perks=3096702027,1683379515
+
 // Royal Chase : Scout-Rifle-Rifle, Primary-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=2776503072&perks=3230963543,2869569095,2458213969
 dimwishlist:item=2776503072&perks=3230963543,2869569095,2848615171
 dimwishlist:item=2776503072&perks=3230963543,3300816228,2848615171
 
-// S:
+// S: -----------------------------------------------------------------------
 
 // Scathelocke : Auto-Rifle, Primary-Ammo, Kinetic, PvE - 2022-01-23
 dimwishlist:item=602618796&perks=839105230,1820235745,3425386926
@@ -478,7 +537,7 @@ dimwishlist:item=2272470786&perks=1561002382,2779035018,2458213969
 dimwishlist:item=2272470786&perks=1885400500,2779035018,2458213969
 dimwishlist:item=2272470786&perks=2779035018,2458213969
 
-// T:
+// T: -----------------------------------------------------------------------
 
 // Tarantula : Linear-Fusion-Rifle, Power-Ammo, Arc, PvE - 2022-01-23
 dimwishlist:item=3335343363&perks=2869569095,2551157718
@@ -502,7 +561,6 @@ dimwishlist:item=4255171531&perks=3796465595,3977735242,3194351027
 dimwishlist:item=4255171531&perks=3796465595,2869569095,2284787283
 dimwishlist:item=4255171531&perks=3796465595,2869569095,1546637391
 dimwishlist:item=4255171531&perks=3796465595,2869569095,3194351027
-
 
 // The Hothead (Adept) : Rocket-Launcher, Power-Ammo, Arc, PvE - 2022-01-26
 dimwishlist:item=1866778462&perks=3796465595,3977735242,2284787283
@@ -536,6 +594,16 @@ dimwishlist:item=507038823&perks=1820235745,4049631843
 dimwishlist:item=3326850591&perks=2284787283,1771339417
 dimwishlist:item=3326850591&perks=2621346526,1771339417
 dimwishlist:item=3326850591&perks=3643424744,957782887
+
+// The Other Half : Sword, Power-Ammo, Void, PvE - 2022-01-28
+dimwishlist:item=3257091167&perks=2077819806,3913600130
+dimwishlist:item=3257091167&perks=2077819806,1546637391
+dimwishlist:item=3257091167&perks=1749209109,3913600130
+dimwishlist:item=3257091167&perks=1749209109,1546637391
+dimwishlist:item=3257091167&perks=3705817207,3913600130
+dimwishlist:item=3257091167&perks=3705817207,1546637391
+dimwishlist:item=3257091167&perks=3705817207,4104185692
+dimwishlist:item=3257091167&perks=2077819806,4104185692
 
 // Threaded Needle : Linear-Fusion-Rifle, Power-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=3075224551&perks=2284787283,1546637391
@@ -573,10 +641,10 @@ dimwishlist:item=3297863558&perks=47981717,957782887
 dimwishlist:item=3297863558&perks=3513791699,1546637391
 dimwishlist:item=3297863558&perks=3513791699,957782887
 
-// U:
+// U: -----------------------------------------------------------------------
 
 
-// V:
+// V: -----------------------------------------------------------------------
 
 // Vouchsafe : Scout-Rifle, Primary-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=3242168339&perks=247725512,3038247973
@@ -602,7 +670,7 @@ dimwishlist:item=1622998472&perks=106909392,1168162263,3038247973
 dimwishlist:item=1622998472&perks=1168162263,2458213969
 dimwishlist:item=1622998472&perks=1195158366,2458213969
 
-// W:
+// W: -----------------------------------------------------------------------
 
 // Waking Vigil : Hand-Cannon, Primary-Ammo, Arc, PvE - 2022-01-24
 dimwishlist:item=334171687&perks=1926090093,1885400500,247725512,1015611457
@@ -622,6 +690,11 @@ dimwishlist:item=334171687&perks=1168162263,1015611457
 dimwishlist:item=334171687&perks=247725512,2848615171
 dimwishlist:item=334171687&perks=1168162263,2848615171
 
+// Wastelander : Shotgun, Special-Ammo, Kinetic, PvE - 2022-01-28
+dimwishlist:item=1679868061&perks=791862061,1820235745,2679249093
+dimwishlist:item=1679868061&perks=791862061,1820235745,2360754333
+dimwishlist:item=1679868061&perks=791862061,1428297954,2450788523
+
 // Wispering Slab : Bow, Primary-Ammo, Kinetic, PvE - 2022-01-23
 dimwishlist:item=211938782&perks=201365942,4082225868
 dimwishlist:item=211938782&perks=201365942,1546637391
@@ -633,13 +706,13 @@ dimwishlist:item=3472875143&perks=201365942,3673922083
 dimwishlist:item=3472875143&perks=201365942,2848615171
 dimwishlist:item=3472875143&perks=201365942,4104185692
 
-// X:
+// X: -----------------------------------------------------------------------
 
 
-// Y:
+// Y: -----------------------------------------------------------------------
 
 
-// Z:
+// Z: -----------------------------------------------------------------------
 
 
 
