@@ -20,7 +20,7 @@ dimwishlist:item=2855157553&perks=3161816588,957782887
 dimwishlist:item=2855157553&perks=1631667848,2679249093
 dimwishlist:item=2855157553&perks=1631667848,3708227201
 
-// A Swift Verdict : Side-Arm, Primary-Ammo, Void, PvE - 2022-01-26
+// A Swift Verdict : Sidearm, Primary-Ammo, Void, PvE - 2022-01-26
 dimwishlist:item=1626503676&perks=1561002382,2450788523,1015611457
 dimwishlist:item=1626503676&perks=1561002382,2450788523,2846385770
 dimwishlist:item=1626503676&perks=1561002382,2946784966,1015611457
@@ -37,6 +37,22 @@ dimwishlist:item=1626503676&perks=2450788523,1015611457
 dimwishlist:item=1626503676&perks=2450788523,2846385770
 dimwishlist:item=1626503676&perks=2946784966,1015611457
 dimwishlist:item=1626503676&perks=2946784966,2846385770
+
+// Aisha's Embrace : Scout-Rifle, Primary-Ammo, Void, PvE - 2022-03-24
+dimwishlist:item=2638190703,1583705720,1354429876
+dimwishlist:item=2638190703,3400784728,1354429876
+dimwishlist:item=2638190703,3400784728,2458213969
+dimwishlist:item=2638190703,1428297954,2458213969
+dimwishlist:item=2638190703,3400784728,2896038713
+dimwishlist:item=2638190703,2946784966,2458213969
+
+// Aisha's Embrace (Adept) : Scout-Rifle, Primary-Ammo, Void, PvE - 2022-03-24
+dimwishlist:item=3245493570,1583705720,1354429876
+dimwishlist:item=3245493570,3400784728,1354429876
+dimwishlist:item=3245493570,3400784728,2458213969
+dimwishlist:item=3245493570,1428297954,2458213969
+dimwishlist:item=3245493570,3400784728,2896038713
+dimwishlist:item=3245493570,2946784966,2458213969
 
 // Annual Skate : Hand-Cannon, Primary-Ammo, Solar, PvE - 2022-01-23
 dimwishlist:item=6857689&perks=1168162263,4082225868
@@ -202,6 +218,15 @@ dimwishlist:item=2714022207&perks=588594999,2726471870
 dimwishlist:item=2714022207&perks=588594999,2213355989
 dimwishlist:item=2714022207&perks=2866798147,2213355989
 
+// Crisis Inverted : Hand-Cannon, Primary-Ammo, Arc, PvE - 2022-03-24
+dimwishlist:item=2888266564,1168162263,1015611457
+dimwishlist:item=2888266564,1583705720,4049631843
+dimwishlist:item=2888266564,2946784966,1015611457
+dimwishlist:item=2888266564,3523296417,1048183818
+dimwishlist:item=2888266564,247725512,2896038713
+dimwishlist:item=2888266564,247725512,1546637391
+dimwishlist:item=2888266564,247725512,1048183818
+
 // Crowd Pleaser : Grenade-Launcher, Power-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=3565520715&perks=3301904089,2869569095,3523296417
 dimwishlist:item=3565520715&perks=3301904089,2869569095,2396489472
@@ -236,6 +261,17 @@ dimwishlist:item=2742838701&perks=3643424744,4082225868
 dimwishlist:item=2807687156&perks=1087426260,2284787283,1771339417
 dimwishlist:item=2807687156&perks=106909392,2284787283,1771339417
 dimwishlist:item=2807687156&perks=2420895100,2284787283,1771339417
+
+// Dusty Bound : Auto-Rifle, Primary-Ammo, Kinetic, PvE - 2022-03-24
+dimwishlist:item=435216110,1583705720,4049631843
+dimwishlist:item=435216110,1428297954,1546637391
+dimwishlist:item=435216110,1428297954,4104185692
+dimwishlist:item=435216110,1428297954,3425386926
+dimwishlist:item=435216110,2387244414,1359896290
+dimwishlist:item=435216110,3400784728,1354429876
+dimwishlist:item=435216110,3400784728,4049631843
+dimwishlist:item=435216110,2387244414,4104185692
+dimwishlist:item=435216110,2387244414,3425386926
 
 // E: -----------------------------------------------------------------------
 
@@ -316,6 +352,13 @@ dimwishlist:item=1076810832&perks=1570042021,957782887
 dimwishlist:item=1076810832&perks=1570042021,3425386926
 dimwishlist:item=1076810832&perks=1570042021,2458213969
 
+// Fortimmimo-11 : Shotgun, Special-Ammo, Kinetic, PvE - 2022-03-24
+dimwishlist:item=2821430069,1354429876,1546637391
+dimwishlist:item=2821430069,4071163871,1546637391
+dimwishlist:item=2821430069,2779035018,11612903
+dimwishlist:item=2821430069,2779035018,4104185692
+dimwishlist:item=2821430069,3523296417,11612903
+
 // Fractethyst : Shotgun, Special-Ammo, Stasis, PvPvE - 2022-01-28
 dimwishlist:item=3184681056&perks=1332244541,791862061,706527188,47981717
 dimwishlist:item=3184681056&perks=706527188,47981717
@@ -333,11 +376,33 @@ dimwishlist:item=1513993763&perks=1087426260,1820235745,3425386926
 dimwishlist:item=1513993763&perks=106909392,1820235745,3425386926
 dimwishlist:item=1513993763&perks=2420895100,1820235745,3425386926
 
-// Frozen Orbit : Sniper-Rifle, Special-Ammo, 
+// Frozen Orbit : Sniper-Rifle, Special-Ammo, Void, PvE - 2022-03-24
 dimwishlist:item=3473290087&perks=106909392,3300816228,1546637391
 dimwishlist:item=3473290087&perks=2420895100,3400784728,1546637391
 dimwishlist:item=3473290087&perks=1087426260,2866798147,2551157718
 dimwishlist:item=3473290087&perks=1087426260,588594999,47981717
+
+// Fugue-55 : Sniper-Rifle, Special-Ammo, Void, PvE, - 2022-03-24
+dimwishlist:item=2233545123,3300816228,1546637391
+dimwishlist:item=2233545123,3300816228,1771339417
+dimwishlist:item=2233545123,1354429876,1546637391
+dimwishlist:item=2233545123,1354429876,1771339417
+
+// Funnelweb : Submachine-Gun, Primary-Ammo, Void, PvE - 2022-03-24
+dimwishlist:item=3341893443,1428297954,2726471870
+dimwishlist:item=3341893443,1428297954,2896038713
+dimwishlist:item=3341893443,1428297954,4104185692
+dimwishlist:item=3341893443,1428297954,11612903
+dimwishlist:item=3341893443,2450788523,2726471870
+dimwishlist:item=3341893443,2450788523,2896038713
+dimwishlist:item=3341893443,2450788523,4104185692
+dimwishlist:item=3341893443,2450788523,11612903
+dimwishlist:item=3341893443,2450788523,2846385770
+dimwishlist:item=3341893443,1820235745,2726471870
+dimwishlist:item=3341893443,1820235745,2896038713
+dimwishlist:item=3341893443,1820235745,4104185692
+dimwishlist:item=3341893443,1820235745,11612903
+dimwishlist:item=3341893443,1820235745,2846385770
 
 // G: -----------------------------------------------------------------------
 
@@ -370,6 +435,23 @@ dimwishlist:item=2139640995&perks=2590710093,2396489472
 dimwishlist:item=2139640995&perks=1749209109,4049631843
 dimwishlist:item=2139640995&perks=3705817207,4049631843
 dimwishlist:item=2139640995&perks=2590710093,4049631843
+
+// Herod-C : Auto-Rifle, Primary-Ammo, Stasis, PvE - 2022-03-24
+dimwishlist:item=1788603939,1428297954,2896038713
+dimwishlist:item=1788603939,1428297954,124408337
+dimwishlist:item=1788603939,1428297954,1546637391
+dimwishlist:item=1788603939,1428297954,3523296417
+dimwishlist:item=1788603939,1428297954,4049631843
+dimwishlist:item=1788603939,1428297954,2458213969
+dimwishlist:item=1788603939,1428297954,4104185692
+dimwishlist:item=1788603939,1820235745,2896038713
+dimwishlist:item=1788603939,1820235745,124408337
+dimwishlist:item=1788603939,1820235745,1546637391
+dimwishlist:item=1788603939,1820235745,3523296417
+dimwishlist:item=1788603939,1820235745,4049631843
+dimwishlist:item=1788603939,1820235745,2458213969
+dimwishlist:item=1788603939,1820235745,4104185692
+dimwishlist:item=1788603939,1583705720,4049631843
 
 // I: -----------------------------------------------------------------------
 
@@ -432,6 +514,13 @@ dimwishlist:item=1476654960&perks=588594999,47981717
 
 // K: -----------------------------------------------------------------------
 
+// Krait : Auto-Rifle, Primary-Ammo, Stasis, PvE - 2022-03-24
+dimwishlist:item=2852052802,1583705720,4049631843
+dimwishlist:item=2852052802,3643424744,124408337
+dimwishlist:item=2852052802,1820235745,2896038713
+dimwishlist:item=2852052802,1820235745,4049631843
+dimwishlist:item=2852052802,1820235745,1546637391
+
 // L: -----------------------------------------------------------------------
 
 // Last Perdition : Pulse-Rifle, Primary-Ammo, Void, PvE - 2022-01-23
@@ -472,7 +561,20 @@ dimwishlist:item=3504336176&perks=1168162263,3038247973
 
 // O: -----------------------------------------------------------------------
 
+// Ogma PR6 : Pulse-Rifle, Primary-Ammo, Solar, PvE - 2022-03-24
+dimwishlist:item=2342054803,1583705720,4049631843
+dimwishlist:item=2342054803,1583705720,11612903
+dimwishlist:item=2342054803,3523296417,11612903
+dimwishlist:item=2342054803,1048183818,1683379515
+dimwishlist:item=2342054803,1048183818,4049631843
+
 // P: -----------------------------------------------------------------------
+
+// Palmyra-B : Rocket-Launcher, Power-Ammo, Stasis, PvE - 2022-03-24
+dimwishlist:item=3489657138,3796465595,3300816228,3927722942
+dimwishlist:item=3489657138,3796465595,3300816228,3194351027
+dimwishlist:item=3489657138,3796465595,3300816228,2396489472
+dimwishlist:item=3489657138,3796465595,3300816228,2978966579
 
 // Pardon Our Dust : Grenade-Launcher, Special-Ammo, Kinetic, PvE - 2022-01-28
 dimwishlist:item=3849810018&perks=3032599245,3300816228,960810156
@@ -519,6 +621,19 @@ dimwishlist:item=378498222&perks=1195158366,2726471870
 // Q: -----------------------------------------------------------------------
 
 // R: -----------------------------------------------------------------------
+
+// Ragnhild-D : Shotgun, Special-Ammo, Kinetic, PvE - 2022-03-24
+dimwishlist:item=4225322581,1820235745,3523296417
+dimwishlist:item=4225322581,1820235745,2679249093
+dimwishlist:item=4225322581,3300816228,3523296417
+dimwishlist:item=4225322581,3300816228,2679249093
+
+// Redback-5si : Sidearm, Primary-Ammo, Solar, PvE - 2022-03-24
+dimwishlist:item=1687353095,1820235745,4049631843
+dimwishlist:item=1687353095,1820235745,3425386926
+dimwishlist:item=1687353095,1583705720,4049631843
+dimwishlist:item=1687353095,1428297954,4049631843
+dimwishlist:item=1687353095,1428297954,3425386926
 
 // Reed's Regret : Linear-Fusion-Rifle, Power-Ammo, Stasis, PvE - 2022-01-25
 dimwishlist:item=1399243961&perks=3400784728,1771339417
@@ -595,10 +710,21 @@ dimwishlist:item=3743729616&perks=2866798147,1771339417
 dimwishlist:item=3743729616&perks=2866798147,957782887
 dimwishlist:item=3743729616&perks=588594999,957782887
 
+// Silicon Neuroma : Sniper-Rifle, Special-Ammo, Kinetic, PvE - 2022-03-24
+dimwishlist:item=3355385170,3400784728,1771339417
+
+// Silicon Neuroma (Adept) : Sniper-Rifle, Special-Ammo, Kinetic, PvE - 2022-03-24
+dimwishlist:item=1387987271,3400784728,1771339417
+
 // Sleepless : Rocket-Launcher, Power-Ammo, Arc, PvE - 2022-01-24
 dimwishlist:item=3740842661&perks=3796465595,3300816228,1546637391
 dimwishlist:item=3740842661&perks=3796465595,2869569095,1546637391
 dimwishlist:item=3740842661&perks=3796465595,3977735242,1546637391
+
+// Snorri FR5 : Fusion-Rifle, Special-Ammo, Void, PvE - 2022-03-24
+dimwishlist:item=4114929480,1583705720,1427256713
+dimwishlist:item=4114929480,3436462433,1427256713
+dimwishlist:item=4114929480,671806388,1427256713
 
 // Sorrow's Verse : Auto-Rifle, Primary-Ammo, Arc, PvE - 2022-01-26
 dimwishlist:item=2496875173&perks=1195158366,4104185692
@@ -663,6 +789,12 @@ dimwishlist:item=310708513&perks=247725512,2458213969K
 dimwishlist:item=310708513&perks=247725512,4049631843
 dimwishlist:item=310708513&perks=247725512,1015611457
 
+// Syncopation-53 : Pulse-Rifle, Primary-Ammo, Stasis, PvE - 2022-03-24
+dimwishlist:item=2856514843,1168162263,124408337
+dimwishlist:item=2856514843,1168162263,4104185692
+dimwishlist:item=2856514843,1168162263,2896038713
+dimwishlist:item=2856514843,588594999,2846385770
+
 // T: -----------------------------------------------------------------------
 
 // Tarantula : Linear-Fusion-Rifle, Power-Ammo, Arc, PvE - 2022-01-23
@@ -696,7 +828,7 @@ dimwishlist:item=1866778462&perks=3796465595,2869569095,2284787283
 dimwishlist:item=1866778462&perks=3796465595,2869569095,1546637391
 dimwishlist:item=1866778462&perks=3796465595,2869569095,3194351027
 
-// The Keening : Side-Arm, Primary-Ammo, Arc, PvE - 2022-01-30
+// The Keening : Sidearm, Primary-Ammo, Arc, PvE - 2022-01-30
 dimwishlist:item=409551876&perks=2450788523,2458213969
 dimwishlist:item=409551876&perks=2450788523,4049631843
 dimwishlist:item=409551876&perks=2450788523,1546637391
@@ -743,6 +875,21 @@ dimwishlist:item=3257091167&perks=3705817207,3913600130
 dimwishlist:item=3257091167&perks=3705817207,1546637391
 dimwishlist:item=3257091167&perks=3705817207,4104185692
 dimwishlist:item=3257091167&perks=2077819806,4104185692
+
+// The Summoner : Auto-Rifle, Primary-Ammo, Solar, PvE - 2022-03-24
+dimwishlist:item=1907698332,3425386926
+dimwishlist:item=1907698332,3643424744,3425386926
+dimwishlist:item=1907698332,1428297954,2458213969
+dimwishlist:item=1907698332,1570042021,2896038713
+dimwishlist:item=1907698332,2846385770,2896038713
+
+// The Summoner (Adept) : Auto-Rifle, Primary-Ammo, Solar, PvE - 2022-03-24
+dimwishlist:item=3514144928,3425386926
+dimwishlist:item=3514144928,3643424744,3425386926
+dimwishlist:item=3514144928,1428297954,2458213969
+dimwishlist:item=3514144928,1570042021,2896038713
+dimwishlist:item=3514144928,2846385770,2896038713
+
 
 // The Third Axiom : Pulse-Rifle, Primary-Ammo, Arc, PvE - 2022-01-30
 dimwishlist:item=4156253727&perks=3436462433,4049631843
@@ -805,6 +952,13 @@ dimwishlist:item=3297863558&perks=47981717,1546637391
 dimwishlist:item=3297863558&perks=47981717,957782887
 dimwishlist:item=3297863558&perks=3513791699,1546637391
 dimwishlist:item=3297863558&perks=3513791699,957782887
+
+// Typhon GL5 : Grenade-Launcher, Power-Ammo, Stasis, PvE - 2022-03-24
+dimwishlist:item=3568377122,3301904089,951095735,2978966579
+dimwishlist:item=3568377122,3301904089,951095735,3194351027
+dimwishlist:item=3568377122,3301904089,3523296417,2978966579
+dimwishlist:item=3568377122,3301904089,3523296417,3194351027
+dimwishlist:item=3568377122,3301904089,3523296417,11612903
 
 // U: -----------------------------------------------------------------------
 
