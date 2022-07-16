@@ -281,6 +281,24 @@ dimwishlist:item=435216110,3400784728,4049631843
 dimwishlist:item=435216110,2387244414,4104185692
 dimwishlist:item=435216110,2387244414,3425386926
 
+// Drang (Baroque) : Sidearm, Primary-Ammo, Solar, PvE - 2022-07-16
+//notes: Recomendations from Coolguy - https://www.youtube.com/watch?v=1iHulv3j72w
+dimwishlist:item=502356570&perks=3250034553,3142289711,1683379515,4082225868#notes: Coolguy's PvP God-Roll
+dimwishlist:item=502356570&perks=3250034553,3142289711,2216471363,1161469972#notes: Coolguy's PvP God-Roll (Craftable)
+dimwishlist:item=502356570&perks=3250034553,3592538738,4293542123#notes: Coolguy's PvE-Solar Build God-Roll
+dimwishlist:item=502356570&perks=3250034553,2675361166,2675184851#notes: Coolguy's PvE-Solar Build God-Roll (Craftable)
+dimwishlist:item=502356570&perks=,3592538738,4293542123#notes: PvE, Solar-Builds
+dimwishlist:item=502356570&perks=,588594999,4293542123#notes: PvE, Solar-Builds (Craftable)
+dimwishlist:item=502356570&perks=,1683379515,4082225868#notes: PvP, Distruption Brake/Swashbuckler 
+dimwishlist:item=502356570&perks=,2216471363,1161469972#notes: PvP, Distruption Brake/Swashbuckler (Craftable)
+dimwishlist:item=502356570&perks=,588594999,1546637391#notes: PvP, Moving Target/Vorpal
+dimwishlist:item=502356570&perks=,2717805783,3418165135#notes: PvP, Moving Target/Vorpal (Craftable)
+dimwishlist:item=502356570&perks=,706527188,1546637391#notes: PvP, Quickdraw/Vorpal
+dimwishlist:item=502356570&perks=,1961144892,3418165135#notes: PvP, Quickdraw/Vorpal (Craftable)
+dimwishlist:item=502356570&perks=,588594999,3425386926#notes: PvPvE, MT/Rampage
+dimwishlist:item=502356570&perks=,2717805783,288411554#notes: PvPvE, MT/Rampage (Craftable)
+
+
 // E: -----------------------------------------------------------------------
 
 // Empty Vessel : Grenade-Launcher, Special-Ammo, Solar, PvE - 2022-01-30
@@ -562,6 +580,11 @@ dimwishlist:item=2563012876&perks=2117683199,2679249093
 dimwishlist:item=2563012876&perks=4071163871,2610012052
 
 // N: -----------------------------------------------------------------------
+
+// Nezarec's Whisper : Glaive, Special-Ammo, Arc, PvE - 2022-07-16
+//notes: This is craftable if you own Season of the Haunted 
+dimwishlist:item=254636484&perks=,3523296417,11612903
+dimwishlist:item=254636484&perks=,1906147653,2422968039
 
 //Nightwatch : Scout-Rifle, Primary-Ammo, Kinetic, PvE - 2022-01-23
 dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973
