@@ -665,6 +665,17 @@ dimwishlist:item=548958835&perks=2779035018,4104185692
 dimwishlist:item=548958835&perks=2779035018,2610012052
 dimwishlist:item=548958835&perks=3096702027,1683379515
 
+// Riiswalker : Shotgun, Special-Ammo, Kinetic, PvP - 2022-07-15
+//notes: This is mainly a PvP shotgun, Leaning on the Iron Reach Perk, for PvE seek out better
+dimwishlist:item=108221785&perks=,2039302152,591790007
+dimwishlist:item=108221785&perks=,1866048759,591790007
+dimwishlist:item=108221785&perks=,706527188,591790007
+dimwishlist:item=108221785&perks=,3436462433,591790007
+dimwishlist:item=108221785&perks=,509074078,591790007
+dimwishlist:item=108221785&perks=,706527188,438098033
+
+
+
 // Royal Chase : Scout-Rifle, Primary-Ammo, Void, PvE - 2022-01-24
 dimwishlist:item=2776503072&perks=3230963543,2869569095,2458213969
 dimwishlist:item=2776503072&perks=3230963543,2869569095,2848615171
@@ -811,6 +822,12 @@ dimwishlist:item=2443900757&perks=1820235745,11612903
 dimwishlist:item=2443900757&perks=1820235745,4049631843
 dimwishlist:item=2443900757&perks=1820235745,2360754333
 dimwishlist:item=2443900757&perks=1820235745,1546637391
+
+// The Hero's Burden : Submachine-Gun, Primary-Ammo, Void, PvE - 2022-07-15
+dimwishlist:item=2488587246&perks=,2779035018,776531651
+dimwishlist:item=2488587246&perks=,2779035018,1015611457
+dimwishlist:item=2488587246&perks=,2451262963,591790007
+dimwishlist:item=2488587246&perks=,2387244414,591790007
 
 // The Hothead : Rocket-Launcher, Power-Ammo, Arc, PvE - 2022-01-26
 dimwishlist:item=4255171531&perks=3796465595,3977735242,2284787283
