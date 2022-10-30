@@ -536,6 +536,20 @@ dimwishlist:item=3044460004&perks=1645158859,2213355989
 
 // J: -----------------------------------------------------------------------
 
+// Jurassic Green : Pulse-Rifle, Primary-Ammo, Solar, - PvPvE - 2022-10-30
+dimwishlist:item=2603335652&perks=,1820235745,4104185692#PvE
+dimwishlist:item=2603335652&perks=,1820235745,4293542123#PvE
+dimwishlist:item=2603335652&perks=,1820235745,11612903#PvE
+dimwishlist:item=2603335652&perks=,2946784966,2458213969#PvPvE
+dimwishlist:item=2603335652&perks=,1428297954,4104185692#PvE
+dimwishlist:item=2603335652&perks=,1428297954,4293542123#PvE
+dimwishlist:item=2603335652&perks=,1428297954,2610012052#PvPvE
+dimwishlist:item=2603335652&perks=,1428297954,11612903#PvPvE
+dimwishlist:item=2603335652&perks=,509074078,2610012052#PvP
+dimwishlist:item=2603335652&perks=,509074078,11612903#PvP
+dimwishlist:item=2603335652&perks=,2450788523,2610012052#PvP
+
+
 // Judgment : Hand-Cannon, Primary-Ammo, Kinetic, PvE - 2022-01-25
 dimwishlist:item=1476654960&perks=1195158366,1954620775
 dimwishlist:item=1476654960&perks=3523296417,1954620775
