@@ -875,11 +875,18 @@ dimwishlist:item=2856514843,588594999,2846385770
 // Tarantula : Linear-Fusion-Rifle, Power-Ammo, Arc, PvE - 2022-01-23
 dimwishlist:item=3335343363&perks=2869569095,2551157718
 
+// Tears of Contrition : Scout-Rifle, Primary-Ammo, Kinetic, PvE - 2022-07-16
+dimwishlist:item=1366394399&perks=,3400784728,1546637391
+dimwishlist:item=1366394399&perks=,3400784728,1354429876
+dimwishlist:item=1366394399&perks=,3400784728,3038247973
+
+
 // The Comedian : Shotgun, Special-Ammo, Void, PvE - 2022-01-26
 dimwishlist:item=1028582252&perks=1820235745,11612903
 dimwishlist:item=1028582252&perks=1820235745,4049631843
 dimwishlist:item=1028582252&perks=1820235745,2360754333
 dimwishlist:item=1028582252&perks=1820235745,1546637391
+dimwishlist:item=1366394399&perks=,3400784728,2896038713
 
 // The Comedian (Adept) : Shotgun, Special-Ammo, Void, PvE - 2022-01-26
 dimwishlist:item=2443900757&perks=1820235745,11612903
